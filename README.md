@@ -6,3 +6,5 @@
 ![Image](https://github.com/user-attachments/assets/7108d932-2e56-4dc3-b4d2-bc7d7dfde616)
 3. Lalu kita tunggu data sebanyak-banyak nya untuk dihitung
 ![Image](https://github.com/user-attachments/assets/451af292-8940-4d5b-87c6-deddcc847691)
+4. lalu cek apakah ada paket los atau tidak, ketik tcp.analysis.lost_segment
+![Image](https://github.com/user-attachments/assets/68e9d67c-4731-4212-b507-1a953cc0a2f5)
