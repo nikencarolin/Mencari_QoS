@@ -8,3 +8,4 @@
 ![Image](https://github.com/user-attachments/assets/451af292-8940-4d5b-87c6-deddcc847691)
 4. lalu cek apakah ada paket los atau tidak, ketik tcp.analysis.lost_segment
 ![Image](https://github.com/user-attachments/assets/68e9d67c-4731-4212-b507-1a953cc0a2f5)
+5. untuk mencari throughput klik statistics lalu pili capture file properties
